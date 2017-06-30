@@ -1,0 +1,12 @@
+{
+  "name":"Chat",
+  "version": "1",
+  "dependencies": {
+    "npm": "",
+    "request" : "", //npm install request
+    "connect" :"",
+    "express" :"",  //npm install --save express
+    "ejs":"",
+    "socket.io":"" //npm install --save socket.io
+  }
+}
